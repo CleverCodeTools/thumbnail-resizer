@@ -1,0 +1,8 @@
+[package]
+name = "thumbnail-resizer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+image = "0.25.9"
+fast_image_resize = "6.0.0"
